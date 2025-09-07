@@ -182,12 +182,12 @@ This project demonstrates how SQL can be applied to extract meaningful insights 
 ### 🔗 Usage
 
 * Clone this repository.
-* Review queries in `queries.sql`.
+* Review queries in `Advanced SQL for Data Analysis.sql`.
 * Explore insights summarized in this README.
 
 ---
 
 ### 📂 Files in Repo
 
-* `queries.sql` → All SQL scripts.
+* `Advanced SQL for Data Analysis.sql` → All SQL scripts.
 * `README.md` → Documentation and insights (this file).
